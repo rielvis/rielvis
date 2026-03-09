@@ -25,6 +25,9 @@ I'm a **game design and development** student, and my ultimate goal is to use ga
 - C++ via Unreal
 ### Working On...
 - *No active projects currently, though ideas are brewing!*
+
+## Contact Me 📡
+*I'm still figuring out a secure way for others to contact me...*
 <!--
 **rielvis/rielvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
