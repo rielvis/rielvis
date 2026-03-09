@@ -1,5 +1,10 @@
-## Hi there 👋
+# ROBiN DAViS - GAME DESiGN & DEVELOPMENT
+I'm Robin! I'm a **game design and development** student.
 
+## Skills & Specialisms
+### Game Design
+### Game Engineering
+### Game Art
 <!--
 **rielvis/rielvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
