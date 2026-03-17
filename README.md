@@ -23,7 +23,7 @@ I'm a **game design and development** student, and my ultimate goal is to use ga
 #### Want to Learn...
 - Scrum productivity
 - C++ via Unreal
-- General Software Engineering
+- General software engineering
 ### Working On...
 - *No active projects currently, though ideas are brewing!*
 
