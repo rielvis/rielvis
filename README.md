@@ -2,6 +2,9 @@
 I'm a **game design and development** student, and my ultimate goal is to use games as a medium for storytelling while scratching that itch for technical problem solving.
 
 ## Skills & Specialisms 💪
+### Game Design 💭
+- Mechanics design
+- Narrative design
 ### Game Engines 🤖
 - Godot
 - Unity
@@ -11,9 +14,6 @@ I'm a **game design and development** student, and my ultimate goal is to use ga
 - C# via Unity
 ### Development Workflows 📋
 - Git via VSCode
-### Game Design 💭
-- Mechanics design
-- Narrative design
 
 ## Work & Learning 🧠
 ### Learning About...
@@ -22,7 +22,6 @@ I'm a **game design and development** student, and my ultimate goal is to use ga
 - Game monetisation and marketing via academic study
 #### Want to Learn...
 - Scrum productivity
-- C++ via Unreal
 - General software engineering
 ### Working On...
 - *No active projects currently, though ideas are brewing!*
