@@ -15,17 +15,6 @@ I'm a **game design and development** student, and my ultimate goal is to use ga
 ### Development Workflows 📋
 - Git via VSCode
 
-## Work & Learning 🧠
-### Learning About...
-- Level design and rapid game prototyping in Unreal
-- Basic game programming concepts in Godot
-- Game monetisation and marketing via academic study
-#### Want to Learn...
-- Scrum productivity
-- General software engineering
-### Working On...
-- *No active projects currently, though ideas are brewing!*
-
 ## Contact Me 📡
 *I'm still figuring out a secure way for others to contact me...*
 <!--
