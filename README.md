@@ -1,5 +1,11 @@
-# ROBIN DAVIS | GAME DESIGNER & DEVELOPER 📝🖥️🎮
+# G. ROBIN DAVIS | GAME DESIGNER & DEVELOPER 📝🖥️🎮
 I'm a **game design and development** student, and my ultimate goal is to use games as a medium for storytelling while scratching that itch for technical problem solving.
+
+### _**CURRENT PROJECTS**_
+
+[_Game Design Theory_](https://github.com/rielvis/game-design-theory) - A public write-up of everything I've learned prior to and during my game development career.
+
+[_~Untitled Lasertag Prototype~_]() - A project meant to challenge my perfectionism by skipping formal design documentation.
 
 <!--
 **rielvis/rielvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
