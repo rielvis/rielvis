@@ -5,7 +5,7 @@ I'm a **game design and development** student, and my ultimate goal is to use ga
 
 [_**Game Design Theory**_](https://github.com/rielvis/game-design-theory) - A public write-up of everything I've learned prior to and during my game development career.
 
-[_~Untitled Lasertag Prototype~_]() - A project meant to challenge my perfectionism by skipping formal design documentation.
+[_~~Untitled Lasertag Prototype~~_](https://github.com/rielvis/untitled-lasertag-prototype) - A project meant to challenge my perfectionism by skipping formal design documentation.
 
 <!--
 **rielvis/rielvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
