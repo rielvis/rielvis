@@ -1,11 +1,11 @@
-# ROBIN DAVIS | GAME DESIGNER & DEVELOPER 📝🖥️🎮
-I'm a **game design and development** student, and my ultimate goal is to use games as a medium for storytelling while scratching that itch for technical problem solving. I also want to explore non-game software development.
+# ROBIN DAVIS | GAME DESIGNER & DEVELOPER
+I'm a **game design and development** student, and my ultimate goal is to use games as a medium for storytelling while scratching that itch for technical problem solving. I also want to explore broader cross-platform software development.
 
-> _**G:** `Godot` `Krita` ~~`Blender`~~ `Audacity` ~~`Ardour`~~ `GitHub`_
-> 
-> _**A:** ~~`Tauri`~~ ~~`Rust`~~ ~~`Svelte`~~_
+**GAME DEV:** `Godot` `Unity` `GitHub` `VSCode`
 
-### _🚧 **CURRENT PROJECTS** 🚧_
+---
+
+### 🚧 **CURRENT PROJECTS** 🚧
 
 [_**Game Design Theory**_](https://github.com/rielvis/game-design-theory) - A public write-up of everything I've learned prior to and during my game development career.
 
