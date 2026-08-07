@@ -1,10 +1,11 @@
 # ROBIN DAVIS | GAME DESIGNER & DEVELOPER 📝🖥️🎮
 I'm a **game design and development** student, and my ultimate goal is to use games as a medium for storytelling while scratching that itch for technical problem solving.
 
-- **languages**: ~~`.c`~~ ~~`.cpp`~~ `.cs` ~~`.java`~~ `.py` `.gd` ~~`.html`~~ ~~`.css`~~ ~~`.js`~~ ~~`.ts`~~
+- **languages**: ~~`.cpp`~~ `.cs` ~~`.java`~~ `.py` `.gd` ~~`.html`~~ ~~`.css`~~ ~~`.js`~~ ~~`.ts`~~
+- **engines**: `Godot` `Unity` ~~`Unreal`~~
+- **frameworks**: `SFML` `libGDX` `Django` `vue.js` `node.js` `SQL`
 
 ---
-
 
 ### _🚧 **CURRENT PROJECTS** 🚧_
 
