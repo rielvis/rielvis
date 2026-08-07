@@ -1,7 +1,7 @@
 # ROBIN DAVIS | GAME DESIGNER & DEVELOPER
 I'm a **game design and development** student, and my ultimate goal is to use games as a medium for storytelling while scratching that itch for technical problem solving. I also want to explore broader cross-platform software development.
 
-**GAME DEV:** `Godot` `Unity` `GitHub` `VSCode`
+`Godot` `Unity` `GitHub` `VSCode` | `...`
 
 ---
 
