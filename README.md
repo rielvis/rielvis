@@ -3,7 +3,7 @@ I'm a **game design and development** student, and my ultimate goal is to use ga
 
 > _**G:** `Godot` `Krita` ~~`Blender`~~ `Audacity` ~~`Ardour`~~ `GitHub`_
 > 
-> _**A:** ~~`Svelte`~~ ~~`Rust`~~ ~~`Tauri`~~_
+> _**A:** ~~`Tauri`~~ ~~`Rust`~~ ~~`Svelte`~~_
 
 ### _🚧 **CURRENT PROJECTS** 🚧_
 
