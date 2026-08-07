@@ -1,7 +1,12 @@
 # ROBIN DAVIS | GAME DESIGNER & DEVELOPER 📝🖥️🎮
 I'm a **game design and development** student, and my ultimate goal is to use games as a medium for storytelling while scratching that itch for technical problem solving.
 
-### _**CURRENT PROJECTS**_
+- **languages**: ~~`.c`~~ ~~`.cpp`~~ `.cs` ~~`.java`~~ `.py` `.gd` ~~`.html`~~ ~~`.css`~~ ~~`.js`~~ ~~`.ts`~~
+
+---
+
+
+### _🚧 **CURRENT PROJECTS** 🚧_
 
 [_**Game Design Theory**_](https://github.com/rielvis/game-design-theory) - A public write-up of everything I've learned prior to and during my game development career.
 
