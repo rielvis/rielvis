@@ -1,6 +1,11 @@
 # ROBIN DAVIS | GAME DESIGNER & DEVELOPER 📝🖥️🎮
 I'm a **game design and development** student, and my ultimate goal is to use games as a medium for storytelling while scratching that itch for technical problem solving.
 
+> _**G:** `Godot` `Krita` ~~`Blender`~~ `Audacity` ~~`Ardour`~~ `GitHub`_
+> 
+> _**A:** ~~`Svelte`~~ ~~`Rust`~~ ~~`Tauri`~~_
+
+
 ---
 
 ### _🚧 **CURRENT PROJECTS** 🚧_
