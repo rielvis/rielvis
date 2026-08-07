@@ -5,9 +5,6 @@ I'm a **game design and development** student, and my ultimate goal is to use ga
 > 
 > _**A:** ~~`Svelte`~~ ~~`Rust`~~ ~~`Tauri`~~_
 
-
----
-
 ### _🚧 **CURRENT PROJECTS** 🚧_
 
 [_**Game Design Theory**_](https://github.com/rielvis/game-design-theory) - A public write-up of everything I've learned prior to and during my game development career.
