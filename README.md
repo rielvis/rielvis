@@ -9,6 +9,8 @@ I'm a **game design and development** student, and my ultimate goal is to use ga
 
 [_**Game Design Theory**_](https://github.com/rielvis/game-design-theory) - A public write-up of everything I've learned prior to and during my game development career.
 
+[_**Microgame Collection**_](https://github.com/rielvis/MOD010307_GitHub_Portfolio) - A collection of minigames to practice and demonstrate my programming capabilities.
+
 <!--
 **rielvis/rielvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
